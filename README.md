@@ -11,7 +11,7 @@
 ## 2. 기초문제 풀이
 - [별찍기-8](https://github.com/jobcodebreak/backjoon/tree/main/2445_%EB%B3%84%EC%B0%8D%EA%B8%B08) (https://www.acmicpc.net/problem/2445)
 - [문자와 문자열](https://github.com/jobcodebreak/backjoon/tree/main/27866_%EB%AC%B8%EC%9E%90%EC%99%80%EB%AC%B8%EC%9E%90%EC%97%B4) (https://www.acmicpc.net/problem/27866)
-- [오븐 시계](https://github.com/jobcodebreak/backjoon/tree/main/boj_2525_%EC%98%A4%EB%B8%90%EC%8B%9C%EA%B3%84) (https://www.acmicpc.net/problem/2525)
+- [오븐 시계](https://github.com/jobcodebreak/backjoon/tree/main/2525_%EC%98%A4%EB%B8%90%EC%8B%9C%EA%B3%84) (https://www.acmicpc.net/problem/2525)
 - [행렬 덧셈]() (https://www.acmicpc.net/problem/2738)
 - [소수 찾기]() (https://www.acmicpc.net/problem/1978)
 
