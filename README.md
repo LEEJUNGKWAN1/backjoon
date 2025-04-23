@@ -12,7 +12,7 @@
 - [별찍기-8](https://www.acmicpc.net/problem/2445)
 - [문자와 문자열](https://www.acmicpc.net/problem/27866)
 - [행렬 덧셈](https://www.acmicpc.net/problem/2738)
-- [오븐 시계](https://github.com/jobcodebreak/backjoon/tree/main/boj_2525_%EC%98%A4%EB%B8%90%EC%8B%9C%EA%B3%84)https://www.acmicpc.net/problem/2525
+- [오븐 시계](https://github.com/jobcodebreak/backjoon/tree/main/boj_2525_%EC%98%A4%EB%B8%90%EC%8B%9C%EA%B3%84) (https://www.acmicpc.net/problem/2525)
 - [소수 찾기](https://www.acmicpc.net/problem/1978)
 
 ## 3.부루트포스
