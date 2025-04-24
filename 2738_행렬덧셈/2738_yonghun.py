@@ -9,7 +9,7 @@ N, M = map(int, input().split())
 
 A = []
 for _ in range(N):
-    A.append(list(map(int, input().split())))
+    A.append(list(map(int, input().split())))  # 한줄을 받아 A리스트에 입력
 
 B = []
 for _ in range(N):
