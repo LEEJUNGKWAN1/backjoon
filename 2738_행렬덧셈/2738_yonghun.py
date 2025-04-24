@@ -20,3 +20,4 @@ for i in range(N):
     for j in range(M):
         result.append(A[i][j] + B[i][j])
     print(' '.join(map(str, result)))
+
