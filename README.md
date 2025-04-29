@@ -16,4 +16,6 @@
 - [소수 찾기](https://github.com/jobcodebreak/backjoon/tree/main/1978_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0) (https://www.acmicpc.net/problem/1978)
 
 ## 3.부루트포스
-
+- [블랙잭](https://github.com/jobcodebreak/backjoon/tree/main/2798_%EB%B8%94%EB%9E%99%EC%9E%AD) (https://www.acmicpc.net/problem/2798)
+- [369](https://github.com/jobcodebreak/backjoon/tree/main/17614_369) (https://www.acmicpc.net/problem/17614)
+- [분해합]() (https://www.acmicpc.net/problem/2231)
