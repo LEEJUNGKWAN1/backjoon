@@ -20,3 +20,4 @@
 - [369](https://github.com/jobcodebreak/backjoon/tree/main/17614_369) (https://www.acmicpc.net/problem/17614)
 - [분해합](https://github.com/jobcodebreak/backjoon/tree/main/2231_%EB%B6%84%ED%95%B4%ED%95%A9) (https://www.acmicpc.net/problem/2231)
 - [완전제곱수](https://github.com/jobcodebreak/backjoon/tree/main/6131_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98) (https://www.acmicpc.net/problem/6131)
+- [일곱난쟁이](https://www.acmicpc.net/problem/6131)
