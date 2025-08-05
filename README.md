@@ -13,7 +13,11 @@
 - [문자와 문자열](https://github.com/jobcodebreak/backjoon/tree/main/27866_%EB%AC%B8%EC%9E%90%EC%99%80%EB%AC%B8%EC%9E%90%EC%97%B4) (https://www.acmicpc.net/problem/27866)
 - [오븐 시계](https://github.com/jobcodebreak/backjoon/tree/main/2525_%EC%98%A4%EB%B8%90%EC%8B%9C%EA%B3%84) (https://www.acmicpc.net/problem/2525)
 - [행렬 덧셈](https://github.com/jobcodebreak/backjoon/tree/main/2738_%ED%96%89%EB%A0%AC%EB%8D%A7%EC%85%88) (https://www.acmicpc.net/problem/2738)
-- 소수 찾기 (https://www.acmicpc.net/problem/1978)
+- [소수 찾기](https://github.com/jobcodebreak/backjoon/tree/main/1978_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0) (https://www.acmicpc.net/problem/1978)
 
 ## 3.부루트포스
-
+- [블랙잭](https://github.com/jobcodebreak/backjoon/tree/main/2798_%EB%B8%94%EB%9E%99%EC%9E%AD) (https://www.acmicpc.net/problem/2798)
+- [369](https://github.com/jobcodebreak/backjoon/tree/main/17614_369) (https://www.acmicpc.net/problem/17614)
+- [분해합](https://github.com/jobcodebreak/backjoon/tree/main/2231_%EB%B6%84%ED%95%B4%ED%95%A9) (https://www.acmicpc.net/problem/2231)
+- [완전제곱수](https://github.com/jobcodebreak/backjoon/tree/main/6131_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98) (https://www.acmicpc.net/problem/6131)
+- [일곱난쟁이](https://www.acmicpc.net/problem/6131)
